@@ -19,7 +19,7 @@ Implemented GBM from scratch to demonstrate the mathematical and algorithmic fou
 - Includes residual-based tree construction.
 - Visualizes how predictions and residuals evolve over iterations.
 
-**Key File**: `gbm_from_scratch.ipynb`
+**Key File**: `https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/Classic_GBM_from_Scratch.ipynb`
 
 ---
 
