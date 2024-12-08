@@ -28,7 +28,7 @@ Built a random forest implementation from scratch using bootstrapped sampling an
 - Explains bagging and majority voting for classification.
 - Demonstrates the scalability of ensemble methods over single decision trees.
 
-**Key File**: `random_forest_from_scratch.ipynb`
+**Key File**: `https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/Random_Forest_Implementation_from_Scratch.ipynb`
 
 ---
 
