@@ -19,7 +19,7 @@ Implemented GBM from scratch to demonstrate the mathematical and algorithmic fou
 - Includes residual-based tree construction.
 - Visualizes how predictions and residuals evolve over iterations.
 
-**Key File**: `https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/Classic_GBM_from_Scratch.ipynb`
+**Key File**: https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/Classic_GBM_from_Scratch.ipynb
 
 ---
 
@@ -28,7 +28,7 @@ Built a random forest implementation from scratch using bootstrapped sampling an
 - Explains bagging and majority voting for classification.
 - Demonstrates the scalability of ensemble methods over single decision trees.
 
-**Key File**: `https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/Random_Forest_Implementation_from_Scratch.ipynb`
+**Key File**: https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/Random_Forest_Implementation_from_Scratch.ipynb
 
 ---
 
@@ -37,7 +37,7 @@ Constructed the AdaBoost algorithm step-by-step with weak learners (decision stu
 - Shows how misclassified samples are iteratively reweighted.
 - Highlights boosting’s ability to improve weak classifiers.
 
-**Key File**: `adaboost_from_scratch.ipynb](https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/AdaBoost_Implementation.ipynb`
+**Key File**: adaboost_from_scratch.ipynb](https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/AdaBoost_Implementation.ipynb
 
 ---
 
@@ -46,7 +46,7 @@ Implemented decision trees with both Gini impurity and entropy criteria.
 - Includes recursive binary splits and leaf node predictions.
 - Visualized the tree structure and feature importance.
 
-**Key File**: `https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/Decision_Tree_from_Scratch.ipynb`
+**Key File**: https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/Decision_Tree_from_Scratch.ipynb
 
 ---
 
@@ -55,7 +55,7 @@ Explored multiple GBM-based classifiers:
 - **XGBoost**, **LightGBM**, and **CatBoost** for classification.
 - Benchmarked against Decision Tree, Random Forest, and AdaBoost.
 
-**Key File**: `https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/Showcase_gbm_classifier_techniques.ipynb`
+**Key File**: https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/Showcase_gbm_classifier_techniques.ipynb
 
 ---
 
@@ -64,7 +64,7 @@ Used GBM-based regression techniques:
 - **XGBoostRegressor**, **LGBMRegressor**, and **CatBoostRegressor**.
 - Evaluated on synthetic regression data, comparing RMSE across models.
 
-**Key File**: `https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/GradientBoosting_Regression.ipynb`
+**Key File**: https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/GradientBoosting_Regression.ipynb
 
 ---
 
@@ -73,7 +73,7 @@ Demonstrated ranking models using:
 - **XGBRanker**, **LightGBM**, and **CatBoostRanker**.
 - Generated synthetic ranking data to simulate search engine or recommendation systems.
 
-**Key File**: `https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/GradientBoosting_Ranking.ipynb`
+**Key File**: https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/GradientBoosting_Ranking.ipynb
 
 ---
 
