@@ -46,7 +46,7 @@ Implemented decision trees with both Gini impurity and entropy criteria.
 - Includes recursive binary splits and leaf node predictions.
 - Visualized the tree structure and feature importance.
 
-**Key File**: `decision_tree_from_scratch.ipynb`
+**Key File**: `https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/Decision_Tree_from_Scratch.ipynb`
 
 ---
 
