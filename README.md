@@ -55,7 +55,7 @@ Explored multiple GBM-based classifiers:
 - **XGBoost**, **LightGBM**, and **CatBoost** for classification.
 - Benchmarked against Decision Tree, Random Forest, and AdaBoost.
 
-**Key File**: `gbm_classification_showcase.ipynb`
+**Key File**: `https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/Showcase_gbm_classifier_techniques.ipynb`
 
 ---
 
