@@ -73,7 +73,7 @@ Demonstrated ranking models using:
 - **XGBRanker**, **LightGBM**, and **CatBoostRanker**.
 - Generated synthetic ranking data to simulate search engine or recommendation systems.
 
-**Key File**: `gbm_ranking_showcase.ipynb`
+**Key File**: `https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/GradientBoosting_Ranking.ipynb`
 
 ---
 
