@@ -9,6 +9,7 @@ This repository contains seven key tasks demonstrating advanced **Gradient Boost
 
 Each task is implemented in Python with proper evaluation and visualizations, showcasing best practices in data science.
 
+Youtube: https://youtu.be/pvucm0STJ2Q 
 ---
 
 ## Tasks
