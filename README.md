@@ -64,7 +64,7 @@ Used GBM-based regression techniques:
 - **XGBoostRegressor**, **LGBMRegressor**, and **CatBoostRegressor**.
 - Evaluated on synthetic regression data, comparing RMSE across models.
 
-**Key File**: `gbm_regression_showcase.ipynb`
+**Key File**: `https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/GradientBoosting_Regression.ipynb`
 
 ---
 
