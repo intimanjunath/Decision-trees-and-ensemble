@@ -37,7 +37,7 @@ Constructed the AdaBoost algorithm step-by-step with weak learners (decision stu
 - Shows how misclassified samples are iteratively reweighted.
 - Highlights boosting’s ability to improve weak classifiers.
 
-**Key File**: adaboost_from_scratch.ipynb](https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/AdaBoost_Implementation.ipynb
+**Key File**: https://github.com/intimanjunath/Decision-trees-and-ensemble/blob/main/AdaBoost_Implementation.ipynb
 
 ---
 
